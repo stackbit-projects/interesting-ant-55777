@@ -59,7 +59,9 @@ sections:
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. test'
+        subtitle: >-
+          In fermentum odio et tortor laoreet, sed interdum augue ornare. test
+          test
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
