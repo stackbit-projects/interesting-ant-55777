@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel. test
     actions:
-      - label: Try Free
+      - label: Try Free 1
         url: /pricing
         style: primary
       - label: Learn More
